@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "todolist_identitypool_5930e4e3",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "todolist",
+    "sharedId": "5930e4e3",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}

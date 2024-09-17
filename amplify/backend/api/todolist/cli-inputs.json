@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "todolist",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 10,
+      "apiKeyExpirationDate": "2024-09-26T18:51:44.042Z",
+      "keyDescription": "todosAPI"
+    }
+  }
+}

@@ -205,8 +205,9 @@ label[for='new-task'] {
 
 input#new-task {
 	float: left;
-	width: 318px;
+	width: 295px;
 	margin-left: 50px;
+	margin-right: 5px;
 }
 
 p > button:hover {

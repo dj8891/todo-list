@@ -53,9 +53,12 @@ button {
 	color: #888;
 	font-size: 15px;
 	width: 60px;
-	margin: 10px 0 0;
+	margin: 6px 2px 0;
 	font-family: Lato, sans-serif;
 	cursor: pointer;
+	padding: 5px;
+	border-radius: 10px;
+	background-color: #f3f3f3;
 }
 
 button:hover {
